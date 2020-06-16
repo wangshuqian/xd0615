@@ -1,6 +1,6 @@
 # xd0615
 Class 1:
---操作Github
+操作Github
 1.登录GitHub
 2.申请自己的账户
 3.创建一个项目仓库
@@ -9,9 +9,10 @@ Class 1:
 6.使用git add将修改后的文件保存到本地仓库
 7.使用git commit-m命令设置注释
 8.使用git push命令将本地项目更新提交到github
---
---
-————
+
+
+
+
 三个自己掌握的知识
 1.安装git 工具
 git init 命令初始创建一个仓库
